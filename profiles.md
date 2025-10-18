@@ -31,7 +31,7 @@ same format.
 
 [![GitHub](https://shields.apollofops.net/badge/GitHub-CoffeeCoder1-lightgrey?style=flat-square&logo=github)](https://github.com/CoffeeCoder1)
 
-[![GitLab](https://shields.apollofops.net/badge/GitLab-CoffeeCoder1-orange?style=flat-square&logo=gitlab)](https://gitlab.com/CoffeeCoder1)
+[![GitLab](https://shields.apollofops.net/badge/GitLab-ApolloFops-orange?style=flat-square&logo=gitlab)](https://gitlab.com/ApolloFops)
 
 ## Social
 

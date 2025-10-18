@@ -11,7 +11,7 @@ haii! i'm a fops :3
 i do some things with tech and music, and i'm pretty interested in audio stuff.
 
 you can find a bunch of my projects on my [github](https://github.com/CoffeeCoder1)
-and [gitlab](https://gitlab.com/CoffeeCoder1), and anything else i post can be
+and [gitlab](https://gitlab.com/ApolloFops), and anything else i post can be
 found on the [profiles page]({{ site.baseurl }}/profiles.html).
 
 i also stream [on twitch](https://twitch.tv/apollofops) pretty regularly (i try
