@@ -10,7 +10,7 @@ haii! i'm a fops :3
 
 i do some things with tech and music, and i'm pretty interested in audio stuff.
 
-you can find a bunch of my projects on my [github](https://github.com/CoffeeCoder1)
+you can find a bunch of my projects on my [github](https://github.com/ApolloFops)
 and [gitlab](https://gitlab.com/ApolloFops), and anything else i post can be
 found on the [profiles page]({{ site.baseurl }}/profiles.html).
 

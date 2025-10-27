@@ -29,7 +29,7 @@ same format.
 
 ## Programming
 
-[![GitHub](https://shields.apollofops.net/badge/GitHub-CoffeeCoder1-lightgrey?style=flat-square&logo=github)](https://github.com/CoffeeCoder1)
+[![GitHub](https://shields.apollofops.net/badge/GitHub-ApolloFops-lightgrey?style=flat-square&logo=github)](https://github.com/ApolloFops)
 
 [![GitLab](https://shields.apollofops.net/badge/GitLab-ApolloFops-orange?style=flat-square&logo=gitlab)](https://gitlab.com/ApolloFops)
 
