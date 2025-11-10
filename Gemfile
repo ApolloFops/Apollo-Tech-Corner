@@ -8,7 +8,7 @@ source "https://rubygems.org"
 gem "csv", "~> 3.3"
 gem "base64"
 
-gem "jekyll", "~> 4.3"
+gem "jekyll", "~> 4.4.1"
 
 gem "jekyll-feed", "~> 0.17.0"
 
