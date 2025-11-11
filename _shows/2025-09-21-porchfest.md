@@ -1,4 +1,5 @@
 ---
+image: assets/img/porchfest_2025_stage.webp
 ---
 
 This year, I mixed for Kyle Reed's band at [Carmel Porchfest](https://www.carmelporchfest.org/).

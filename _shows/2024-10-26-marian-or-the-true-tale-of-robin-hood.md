@@ -1,6 +1,7 @@
 ---
 title: Marian (Or the True Tale of Robin Hood)
 location: University High School
+image: assets/img/uhs_marian_or_the_true_tale_of_robin_hood_booth.webp
 ---
 
 For this show, I mainly just found and ran audio cues. We didn't mic the talent

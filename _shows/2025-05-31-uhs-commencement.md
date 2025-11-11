@@ -1,5 +1,6 @@
 ---
 title: UHS Commencement (Class of 2025)
+image: assets/img/uhs_commencement_2025_desk.webp
 ---
 
 I was a part of the livestream team for UHS's 2025 commencement ceremonies.
